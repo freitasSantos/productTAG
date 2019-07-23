@@ -2,8 +2,6 @@
 using TagProduct.Entities;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TagProduct {
     class Program {
